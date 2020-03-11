@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice2LoginWindow", "Pra
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice3LoginControlMVVM", "Practice3LoginControlMVVM\Practice3LoginControlMVVM.csproj", "{9F267C34-775D-4D53-AB85-3030350842AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice4LoginControlAsync", "Practice4LoginControlAsync\Practice4LoginControlAsync.csproj", "{3396895B-AE23-434C-B773-931A84944178}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice4LoginControlAsync", "Practice4LoginControlAsync\Practice4LoginControlAsync.csproj", "{3396895B-AE23-434C-B773-931A84944178}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice5Navigation", "Practice5Navigation\Practice5Navigation.csproj", "{DE04AB75-AB34-41C4-9155-4EB724774731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice5Navigation", "Practice5Navigation\Practice5Navigation.csproj", "{DE04AB75-AB34-41C4-9155-4EB724774731}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practice6Serialization", "Practice6Serialization\Practice6Serialization.csproj", "{58FE56D6-5EF6-4158-8813-784A06815CFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{DE04AB75-AB34-41C4-9155-4EB724774731}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE04AB75-AB34-41C4-9155-4EB724774731}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE04AB75-AB34-41C4-9155-4EB724774731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FE56D6-5EF6-4158-8813-784A06815CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FE56D6-5EF6-4158-8813-784A06815CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FE56D6-5EF6-4158-8813-784A06815CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FE56D6-5EF6-4158-8813-784A06815CFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
